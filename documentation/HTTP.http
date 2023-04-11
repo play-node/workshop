@@ -1,0 +1,7 @@
+POST http://localhost:3000/store-data
+Content-Type: application/json
+
+{
+  "name": "moemen",
+  "email": "moemen@gmail.com"
+}
