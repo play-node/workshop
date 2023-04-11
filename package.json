@@ -1,0 +1,33 @@
+{
+  "name": "work-shop-node",
+  "version": "1.0.0",
+  "description": "play with node in workshop",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/play-node/workshop.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "express",
+    "mongodb"
+  ],
+  "author": "\"moemen gaballa\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/play-node/workshop/issues"
+  },
+  "homepage": "https://github.com/play-node/workshop#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "typescript": "^5.0.4"
+  }
+}
